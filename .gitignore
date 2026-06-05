@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+
+# 快照文件夹
+snapshots/
+
+# 日志文件
+booking_log.txt
+
+# 文档/临时页面
+claude.md
+cur_page.html
+
+# 本地脚本
+setuo_task.bat

@@ -1,0 +1,10 @@
+{
+  "_comment": "把公众号里的完整预订链接粘贴到 wxkey_url 即可，脚本自动提取 wxkey。留空则使用下面手动的 wxkey_Y / wxkey_A",
+  "wxkey_url": "http://26501.koksoft.com/weixinordernewv7.aspx?wxkey=153DC84BBF7CABBB49618F7ED48D5A310A30AB1DF70AD3A9BE24616F7A304BC0FBE70F6C49DECBE704510878F6D6C9FFD8D2FC12ED1C3633E10BDE723007022E3A843FB56D9D65AA05844444A5F4AC68F6D78F179904CD93B8179839B15CFF80184CF9708273041AB50EA426574463AA&lxbh=A&orderdate=2026-06-06",
+  "wxkey_Y": "",
+  "wxkey_A": "",
+  "advance_days": 1,
+  "choices": ["L", "K", "J"],
+  "auto_confirm": false,
+  "log_file": "booking_log.txt"
+}
